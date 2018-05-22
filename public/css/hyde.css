@@ -125,6 +125,59 @@ a.sidebar-nav-item:focus {
   }
 }
 
+/* Some more CSS
+ *
+ */
+a.more {
+  display: block;
+  text-align: right;
+}
+
+.tag-list a {
+  text-decoration: none;
+}
+/* Tags and Archive Page
+ *
+ * Must add more functionality
+ * Rouge's colour : #c36063 ;
+ * Random Blue Colour : #4289f4;
+ * Learning Blog Colour : #dc8b21 ;
+ */
+
+.tag-cloud li {
+  display: inline-block;
+  margin-right: 0.5em;
+  margin-bottom: 0.5em;
+}
+.tag-cloud a {
+  text-decoration: none;
+}
+
+.return {
+  display: none;
+}
+h3:target + .taglist .return {
+  display: block;
+}
+.return a {
+  font-size: 0.8em;
+  text-decoration: none;
+  color: #c36063; 
+}
+.return a:before {
+  content: '\25b2\00a0';
+}
+
+.archive h3:target {
+  color: #c36063; 
+  font-size: 1.6em;
+}
+
+.archive code:target {
+  color: #000000;
+  font-size: 1.6em;
+}
+
 /* Container
  *
  * Align the contents of the site above the proper threshold with some margin-fu

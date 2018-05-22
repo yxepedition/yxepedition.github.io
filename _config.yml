@@ -13,13 +13,12 @@ tagline:          'A summer at Saskatoon (YXE)'
 description:      'My experiences as a summer intern at University of Saskatchewan.'
 url:              ''
 baseurl:          ''
+excerpt_separator: <!--more-->
 
 author:
   name:           'Mythreyi Ramesh'          
 
-paginate:         5
-paginate_path: '/blog/page:num/'
-permalink: /blog/:title
+paginate:         2
 
 plugins:
   - jekyll-paginate
