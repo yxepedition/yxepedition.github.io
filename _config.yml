@@ -19,6 +19,7 @@ author:
   name:           'Mythreyi Ramesh'          
 
 paginate:         2
+timezone: America/Regina
 
 plugins:
   - jekyll-paginate
