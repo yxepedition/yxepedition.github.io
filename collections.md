@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Archives
+title: Collections
 ---
 
 {% capture site_tags %}{% for tag in site.tags %}{{tag | first}}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
@@ -14,7 +14,7 @@ title: Archives
 
 <article class="archive">
 {% for tag in sortedTags %}
-  <h3 id="{{tag | cgi_escape}}"><code class="highligher-rouge">{{tag}}</code></h3>
+  <h3 id="{{tag | cgi_escape}}"><code class="archive">{{tag}}</code></h3>
   <ul class="taglist">
     {% for post in site.tags[tag] %}
     <li>

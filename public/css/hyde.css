@@ -133,7 +133,7 @@ a.more {
   text-align: right;
 }
 
-.tag-list a {
+a.tag-list {
   text-decoration: none;
 }
 /* Tags and Archive Page
@@ -170,12 +170,7 @@ h3:target + .taglist .return {
 
 .archive h3:target {
   color: #c36063; 
-  font-size: 1.6em;
-}
-
-.archive code:target {
-  color: #000000;
-  font-size: 1.6em;
+  font-size: 2.5em;
 }
 
 /* Container
