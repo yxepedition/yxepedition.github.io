@@ -5,12 +5,12 @@ kramdown:
 highlighter:      rouge
 
 # Permalinks
-permalink:        pretty
+permalink: /blog/:title
 
 # Setup
-title:            Yxepedition
+title:            YXEpedition
 tagline:          'A summer at Saskatoon (YXE)'
-description:      'My experiences as a summer intern at University of Saskatchewan.'
+description:      'Experiences as a summer intern at University of Saskatchewan.'
 url:              ''
 baseurl:          ''
 excerpt_separator: <!--more-->
