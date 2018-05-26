@@ -1,7 +1,8 @@
 ---
 layout: post
 title: The Murray Library
-tags: [library, resources]
+tags: [library, resources, places]
+time: 2018-05-22 17:01:18
 ---
 
 ## The library is huge!

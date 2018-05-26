@@ -2,13 +2,12 @@
 layout: post
 title: Subway and Grad Schools
 tags: [lunch, discussions]
+time: 2018-05-24 14:20:20
 ---
 
 ## Yay, Subway!
 
-One of the first things that struck me when I checked out on the Culinary Services page in the USask website was the presence of a Subway outlet within the campus. Being a rather ardent fan of Subs (even if it is not an authentic one, courtesy WOSS<a href="#note1" id="note1ref"><sup>1</sup></a> ). To my delight, I discovered that there is not just one, but two of them very close to where I live. One of them accepts payments using my Student Card, which is great. Got a Panini Triple Cheese Sandwich today (sadly without sauces, but with loads of Jalapeno). However, I didn't pay attention to my good food after sometime because of the discussion that ensued.
-
-<!--more-->
+One of the first things that struck me when I checked out on the Culinary Services page in the USask website was the presence of a Subway outlet within the campus. Being a rather ardent fan of Subs (even if it is not an authentic one, courtesy WOSS<a href="#note1" id="note1ref"><sup>1</sup></a> ). To my delight, I discovered that there is not just one, but two of them very close to where I live. <!--more--> One of them accepts payments using my Student Card, which is great. Got a Panini Triple Cheese Sandwich today (sadly without sauces, but with loads of Jalapeno). However, I didn't pay attention to my good food after sometime because of the discussion that ensued.
 
 ## Lunch-time Discussions
 
