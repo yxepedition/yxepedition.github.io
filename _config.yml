@@ -18,9 +18,10 @@ excerpt_separator: <!--more-->
 author:
   name:           'Mythreyi Ramesh'          
 
-paginate:         2
+paginate:         5
 timezone: America/Regina
 
 plugins:
   - jekyll-paginate
   - jekyll-gist
+  - jekyll-feed

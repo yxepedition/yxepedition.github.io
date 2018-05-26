@@ -14,7 +14,7 @@ As I came to the library to return my Agatha Christie graphic novel, I decided t
 
 Reading the title, before you think I am about to say something about the price or anything bad about the coffee, let me assure you that's not where I am going; I am not *that* stupid. My stupidity was reflected in how I managed to add accessories like the cardboard that lets you hold your cup, the cap, and so on. I forgot that the cap was designed to make the coffee drinkable directly (I know you've seen this in every movie or TV show, don't judge). I took two straws thinking one of them will fit and ended up wasting them (sorry Mother Earth, I'll be more careful next time with decisions involving plastics). In the end, I managed to walk away with this :
 
-![First Ever Starbucks Coffee]({{site.baseurl}}/images/first_starbucks.jpg)
+<img src="{{site.baseurl}}/images/first_starbucks.jpg" alt="First Ever Starbucks Coffee" style="width: 60%">
 
 ## Verdict
 
