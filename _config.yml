@@ -25,3 +25,6 @@ plugins:
   - jekyll-paginate
   - jekyll-gist
   - jekyll-feed
+
+github:
+  repo: https://github.com/yxepedition/yxepedition.github.io/
