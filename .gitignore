@@ -4,6 +4,7 @@ _site
 .ruby-version
 _posts/upcoming.md
 _posts/master.md
+_posts/tags.md
 
 # Numerous always-ignore extensions
 *.diff

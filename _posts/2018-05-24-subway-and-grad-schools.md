@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Subway and Grad Schools
-tags: [lunch, discussions]
+tags: [discussions, food]
 time: 2018-05-24 14:20:20
 ---
 
