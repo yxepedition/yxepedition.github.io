@@ -7,7 +7,7 @@ time: 2018-05-24 22:05:56
 
 ## The first shopping trip
 
-I was supposed to go shopping the day I landed, but since I slept off, I went the next day. Met Claudia, a fellow GRI from Mexico. Both of us were dropped off by our Globalink Mentor, Jackie, at **The Real Canadian Superstore** on 8th Street, Saskatoon. We quickly got ourselves (an abnormally shapped) trolley and went in. 
+I was supposed to go shopping the day I landed, but since I slept off, I went the next day. Met Claudia, a fellow GRI from Mexico. Both of us were dropped off by our Globalink Mentor, Jackie, at **The Real Canadian Superstore** on 8th Street, Saskatoon. <!--more--> We quickly got ourselves (an abnormally shapped) trolley and went in. 
 
 ## The "super"-ness of the Superstore
 
@@ -21,7 +21,7 @@ After our [Meewasin Exploration]({{ site.baseurl }}{% post_url 2018-05-19-the-me
 
 <img src="{{site.baseurl}}/images/walmart.jpg" alt="walmart entrance" style="width: 60%">
 
-I returned to Walmart once more the following week, this time along with Jackie, Claudia and Jazmin (another fellow GRI from Mexico). We spent 3 hours there but I felt good about my choices. I think I'm getting better at shopping. 
+I returned to Walmart once more the following week, this time along with Jackie, Claudia and Jazmin (another fellow GRI from Mexico). We spent 3 hours there but I felt good about my choices. I think I'm getting better at shopping. I call it "cautious ransacking".
 
 Overall, I feel there's a lot of "super" options to buy stuff here. But if you're from India, don't convert the price to INR. Just don't.
 
